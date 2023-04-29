@@ -5,7 +5,7 @@ public class TwoSum {
         int [] arr = {2,7,11,15};
         int target = 9;
         int res [] = twoSum(arr,target);
-        System.out.println("This is my Solution no copy pasterinooo:\n");
+        System.out.println("This is my Solution no copy pasterino:\n");
         System.out.println(res[0] + " and " +res[1]);
     }
     public static int [] twoSum(int arr[], int target){
