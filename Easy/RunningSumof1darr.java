@@ -1,4 +1,4 @@
-package Easy;
+
 
 public class RunningSumof1darr {
     public static void main(String[] args) {

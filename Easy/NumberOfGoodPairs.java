@@ -1,4 +1,4 @@
-package Easy;
+
 
 public class NumberOfGoodPairs {
     public static void main(String[] args) {

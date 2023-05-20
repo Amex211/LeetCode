@@ -1,3 +1,4 @@
+
 public class SumDivisibleByThreeFiveSeven {
     public static int sumDivisibleByThreeFiveSeven(int n) {
         int sum = 0;

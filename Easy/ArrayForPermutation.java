@@ -1,4 +1,4 @@
-package Easy;
+
 public class ArrayForPermutation {
     public static void main(String[] args) {
         System.out.println("This is a question for array permutation \n");

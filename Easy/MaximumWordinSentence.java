@@ -1,4 +1,3 @@
-package Easy;
 
 class MaximumWordinSentence{
 public static void main(String[] args) {

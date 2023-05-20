@@ -1,4 +1,4 @@
-package Easy;
+
 public class ConcatArray {
     public static void main(String[] args) {
         ConcatArray conc = new ConcatArray();

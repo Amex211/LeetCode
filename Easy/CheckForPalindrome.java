@@ -1,4 +1,3 @@
-package Easy;
 
 public class CheckForPalindrome {
     public static void main(String[] args) {
